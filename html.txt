@@ -3,3 +3,6 @@ html is a hyper text markup language
 <head>
 <body><color><red>
 </"this is my first file">
+</body>
+</head>
+</html>
